@@ -3,7 +3,7 @@
 🚀 Passionate **Software Developer** | 🌐 **Frontend Enthusiast** | 🎨 **UI/UX Lover**
 
 ## 💡 About Me
-Software Developer with expertise in ReactJS, NodeJS, JavaScript, AEM, Java, and various JavaScript frameworks. Currently a Software Developer - Frontend at IBM, I thrive on the challenge of transforming complex problems into elegant, high-performance web applications. My work is focused on building responsive and accessible user interfaces that deliver an exceptional user experience.
+Software Developer with expertise in ReactJS, NodeJS, JavaScript, AEM, Java, and various JavaScript frameworks. Currently working as a Software Developer - Frontend at IBM, I thrive on the challenge of transforming complex problems into elegant, high-performance web applications. My work is focused on building responsive and accessible user interfaces that deliver an exceptional user experience.
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, TypeScript, NodeJS, HTML5, CSS3, MongoDB(Learning)
