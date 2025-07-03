@@ -16,12 +16,6 @@ Software Developer with expertise in ReactJS, NodeJS, JavaScript, AEM, Java, and
 - **[Covid Tracker](https://covid-19-tracker-62eb0.web.app/Home):** Tracker that provides COVID-related information such as fatality rate, recovery rate and current cases of the selected country.
 - **[My Profile](https://get-my-online-resume.web.app/):** Link to my online portfolio.
 
-## 🌟 2024 Goals 
-- Learn MERN Stack and implement a project.
-- Do at least 1 DSA question every day - [My Leetcode Profile](https://leetcode.com/faisalsaysin/).
-- Create a new online profile.
-- Work out at least thrice a week.
-
 ## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faisalsaysin-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5&labelColor=0077b5)](https://www.linkedin.com/in/faisalsaysin)
